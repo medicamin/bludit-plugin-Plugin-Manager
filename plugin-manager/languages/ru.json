@@ -1,0 +1,33 @@
+{
+	"plugin-data": {
+		"name": "Plugin Manager",
+		"description": "Сохраняйте настройки плагинов, устанавливайте плагины в несколько кликов из ZIP-архивов и легко удаляйте плагины."
+	},
+	"plugin-manager": "Менеджер плагинов",
+	"upload-help": "Чтобы установить новый плагин, выберите ZIP-файл плагина и нажмите кнопку «Установить плагин».",
+	"upload-plugin": "Установить плагин",
+	"delete": "Удалить",
+	"delete-confirm": "Удалить этот плагин навсегда?",
+	"invalid-security-token": "Недопустимый токен безопасности.",
+	"upload-file-missing": "Отсутствует загружаемый файл.",
+	"upload-failed-error": "Ошибка при загрузке. Код ошибки: ",
+	"invalid-uploaded-file": "Недопустимый загруженный файл.",
+	"ziparchive-unavailable": "ZIP-файл недоступен.",
+	"invalid-zip": "Недопустимый ZIP-файл.",
+	"invalid-bludit-plugin-zip": "Недопустимый ZIP-файл с плагином для Bludit.",
+	"invalid-plugin": "Недопустимый плагин.",
+	"plugin-already-exists": "Данный плагин уже существует.",
+	"unsafe-zip": "Небезопасный ZIP-файл.",
+	"could-not-create-plugin-directory": "Не удалось создать папку для плагина.",
+	"could-not-read-zip": "Не удалось прочитать ZIP-файл",
+	"could-not-write-plugin-file": "Не удалось записать файл плагина.",
+	"could-not-extract-plugin": "Не удалось извлечь плагин из ZIP-файла.",
+	"invalid-bludit-plugin": "Недопустимый плагин для Bludit.",
+	"plugin-uploaded": "Плагин успешно загружен.",
+	"cannot-delete-manager": "Вы хотите отчаянных мер! Но менеджер плагинов не может удалить сам себя.",
+	"plugin-folder-not-found": "Папка плагина не найдена: ",
+	"deactivate-before-delete": "Деактивируйте плагин перед его удалением.",
+	"could-not-delete-plugin-folder": "Не удалось удалить папку с плагином.",
+	"plugin-folder-still-exists": "Папка с плагином всё ещё существует.",
+	"plugin-deleted": "Плагин успешно удалён."
+}
